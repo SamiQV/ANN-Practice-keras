@@ -2,7 +2,9 @@
 
 ## Introduction 
 
-ANN(Artificial Neural Network) used for binary classification
+ANN(Artificial Neural Network) used for binary classification. 
+
+The model predicts student's result (Pass:1 Fail:0) based on history of test scores and the potential of failing a test.
 
 ## Requirements
 
